@@ -5,6 +5,7 @@
 * [Wine Contributor](https://www.winehq.org/) (on [github](https://github.com/wine-mirror/wine/commits/master/?author=andrewfenn))
 * [Git-FTP Contributor](https://git-ftp.github.io/) (on [github](https://github.com/git-ftp/git-ftp/commits/master/?author=andrewfenn))
 * [Mineserver](https://mineserver.be/) (on [github](https://github.com/fador/mineserver/commits/master/?author=andrewfenn))
+* [TUS Specification](https://tus.io/) (honorable mention on [github](https://github.com/tus/tus-resumable-upload-protocol/blob/master/protocol.md))
 
 ## Open Source
 * [Ubuntu Deb Packaging for Ogre3D](https://www.ogre3d.org/) (on [launchpad](https://launchpad.net/~andrewfenn/+archive/ubuntu/ogredev))
