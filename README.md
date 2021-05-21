@@ -7,6 +7,7 @@
 * [Git-FTP Contributor](https://git-ftp.github.io/) (on [github](https://github.com/git-ftp/git-ftp/commits/master/?author=andrewfenn))
 * [Mineserver](https://mineserver.be/) (on [github](https://github.com/fador/mineserver/commits/master/?author=andrewfenn))
 * [TUS Specification](https://tus.io/) (honorable mention on [github](https://github.com/tus/tus-resumable-upload-protocol/blob/master/protocol.md))
+* [lsyncd](https://axkibe.github.io/lsyncd/) (on [github](https://github.com/axkibe/lsyncd/commit/b2383227cda0fd4025fc14c596d323d832c09a50))
 
 ## Open Source
 * [Ubuntu Deb Packaging for Ogre3D](https://www.ogre3d.org/) (on [launchpad](https://launchpad.net/~andrewfenn/+archive/ubuntu/ogredev))
