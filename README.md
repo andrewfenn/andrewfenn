@@ -26,7 +26,7 @@
 
 ## Business ##
 
-Current Vice President of [Vault Dragon](https://vaultdragon.com/).
+Current Vice President of Technology @ [Vault Dragon](https://vaultdragon.com/).
 
 ## Social Media
 
