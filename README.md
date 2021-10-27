@@ -23,7 +23,10 @@
 
 ## Outside of open source
 * Contributed patches to AWS Opsworks to make it more compatibile with Debian (unattributed via support team)
-* Founding developer and current CTO of [Campaign Sherpa](https://www.campaignsherpa.com/)
+
+## Business ##
+
+Current Vice President of [Vault Dragon](https://vaultdragon.com/).
 
 ## Social Media
 
