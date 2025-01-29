@@ -24,10 +24,6 @@
 ## Outside of open source
 * Contributed patches to AWS Opsworks to make it more compatibile with Debian (unattributed via support team)
 
-## Business ##
-
-Current Chief Technology Officer @ [Vault Dragon](https://vaultdragon.com/).
-
 ## Social Media
 
 * [Linkedin](https://www.linkedin.com/in/andrewfenn/)
